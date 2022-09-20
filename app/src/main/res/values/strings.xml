@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wishlist</string>
+    <string name="submit">SUBMIT</string>
+    <string name="ex_https_www_youtube_com">Ex: https://www.youtube.com</string>
+    <string name="name">Name</string>
+    <string name="ex_4_99">Ex: 4.99</string>
+    <string name="item_name">Item Name</string>
+    <string name="default_item">Default Item</string>
+    <string name="price_view">4.99</string>
+    <string name="urlTest">https://www.youtube.com</string>
+</resources>
