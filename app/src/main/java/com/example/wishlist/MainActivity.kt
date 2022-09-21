@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
         // Button
         submit = findViewById(R.id.submit)
 
-        wishRv= findViewById(R.id.wishList)
+        wishRv = findViewById(R.id.wishList)
         wishFinal = WishFetcher.sendInformation("", "",
             0.0)
         adapter = WishAdapter(wishFinal)
